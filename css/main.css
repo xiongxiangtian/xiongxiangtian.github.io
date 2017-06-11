@@ -1800,7 +1800,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3903ff;
+  background: #a22442;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2977,5 +2977,5 @@ pre .javascript .function {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 body {
-  background: url("http://orc8sanw2.bkt.clouddn.com/background.jpg");
+  background: url("/images/backGround.jpg");
 }
