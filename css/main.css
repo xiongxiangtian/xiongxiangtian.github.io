@@ -1800,7 +1800,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0970f1;
+  background: #5be52d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2976,6 +2976,13 @@ pre .javascript .function {
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
-body {
+.site-author-image {
+  border-radius: 100%;
+  padding: 2px;
+  border: 2px dashed #fff;
+  animation: cycle 2s 0.5s forwards;
+  transition: border-radius 2s;
+}
+.body {
   background: url("/images/backGround.jpg");
 }
